@@ -1,0 +1,21 @@
+
+http://www.splunk.com/view/SP-CAAAGYK
+
+http://www.splunk.com/view/SP-CAAAGYJ
+
+http://splunk-base.splunk.com/answers/9971/splunk-for-bind-app-for-syslog-data
+
+http://splunk-base.splunk.com/apps/64805/splunk-dashboard-examples
+
+Splunk qwiki - Where_do_I_configure_my_Splunk_settings
+
+/var/lib/splunk 
+
+indexes.conf
+
+index=_audit user=XX action=search NOT "typeahead" NOT history NOT metadata
+
+craig@splunk.com
+
+http://www.surveymonkey.com/s/splunkclasses
+
